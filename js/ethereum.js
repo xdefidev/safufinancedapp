@@ -1,7 +1,7 @@
 var isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
 
 
-const tokenAddress = "0x2B6D81975B49e9923c8d7997Fd2cf6399a4f856D";
+const tokenAddress = "0x0E8Dc82eafe2ba99D5140a3462e2e046eE4Ea63E";
 
 const decimals = 18;
 let format = 0;
