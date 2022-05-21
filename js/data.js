@@ -1,8 +1,8 @@
 "use strict"
-const tokenAddress = "0x2B6D81975B49e9923c8d7997Fd2cf6399a4f856D";
+const tokenAddress = "0x0E8Dc82eafe2ba99D5140a3462e2e046eE4Ea63E";
 const wbnb = '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c';
-const treasuryAddress = '0x65ba99AcF8Baa5D4E68F5eE41588A49A215527FA';
-const pairAddress = '0x86F69BE2623CCb19DF08bCF0c31A24c31690aeeE';
+const treasuryAddress = '0xf45f6971cD9eD5AB3cEA83604f80B5527Eaae9d5';
+const pairAddress = '0x6Ed8eA2d49C99d445635e05A100804FAb3307fd0';
 
 const apiKey = "NIRJMYPQHC9S5KA57GFWK4Z86H27CMDN57";
 const apiKey2 ="Z5ICY43DWRMVB12642VWQDVVF5IP36FFR6"
